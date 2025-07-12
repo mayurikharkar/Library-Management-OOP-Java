@@ -19,15 +19,6 @@ The project showcases the four pillars of Object‑Oriented Programming — **Ab
 
 ---
 
-## 🖥️ Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| Language | Java 17 (works on 11+) |
-| Build / Run | Plain `javac` & `java` or any IDE (IntelliJ, Eclipse) |
-| Data Storage | In‑memory `ArrayList<Book>` (no DB) |
-
----
-
 ## 🗂 Project Structure
-
+LibrarySystem/
+└── LibrarySystem.java # Contains Book hierarchy & main menu
