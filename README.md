@@ -1,4 +1,4 @@
-**📚 Library Management System (OOP Demo in Java)**
+**📚 Library Management System (based on OOPs Java)**
 
 A lightweight console‑based library manager written in **Java 17**.  
 The project showcases the four pillars of Object‑Oriented Programming — **Abstraction, Encapsulation, Inheritance, and Polymorphism** — while allowing users to add, search, borrow, and return books.
