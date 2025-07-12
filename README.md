@@ -1,6 +1,26 @@
 **📚 Library Management System (based on OOPs Java)**
 
-A lightweight console‑based library manager written in **Java 17**.  
+  # Library-Management-OOPs-Java
+>>Library Management System - Java Project
+
+A simple Java console-based Library Management System that uses core Object-Oriented Programming concepts like Encapsulation, Inheritance, Polymorphism, and Abstraction.
+
+>Features
+- Add Fiction & Non-Fiction Books
+- Borrow and Return Books
+- Search Books by Title or Author
+- Display All Books
+
+>>How to Run
+1. Open the project in IntelliJ IDEA or any Java IDE.
+2. Run the `LibrarySystem.java` file.
+3. Follow the menu options in the console.
+
+ >> Technologies Used
+- Java
+- Core OOP Concepts
+
+
 The project showcases the four pillars of Object‑Oriented Programming — **Abstraction, Encapsulation, Inheritance, and Polymorphism** — while allowing users to add, search, borrow, and return books.
 
 ---
