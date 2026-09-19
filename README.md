@@ -1,4 +1,4 @@
-**📚 Library Management System (based on OOPs Java)**
+**Library Management System (based on OOPs Java)**
 
   # Library-Management-OOPs-Java
 >>Library Management System - Java Project
@@ -25,7 +25,7 @@ The project showcases the four pillars of Object‑Oriented Programming — **Ab
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | # | Feature | OOP Concept | Class / Method |
 |---|---------|-------------|----------------|
